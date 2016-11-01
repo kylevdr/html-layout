@@ -1,0 +1,23 @@
+body {
+    background-color: lightgray;
+}
+
+header {
+    background-color: #515151;
+    height: 200px;
+}
+
+div {
+    background-color: white;
+    height: 800px;
+}
+
+footer {
+    background-color: #282828;
+    height: 100px;
+}
+
+.has-margin {
+    margin-left: 150px;
+    margin-right: 150px;
+}
