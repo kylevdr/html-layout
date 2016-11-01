@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+.one {
+    height: 100px;
+    background-color: lightgray;
+    padding: 15px;
+}
+
+.two {
+    height: 250px;
+    padding: 30px;
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+.three {
+    height: 150px;
+    background-color: cornflowerblue;
+}
+
+.four {
+    height: 150px;
+    background-color: cyan;
+}
+
+.five {
+    height: 150px;
+    background-color: yellowgreen;
+}
+
+.six {
+    height: 150px;
+    background-color: greenyellow;
+}
+
+.box {
+    height: 65px;
+    width: 65px;
+    background-color: cornflowerblue;
+}
